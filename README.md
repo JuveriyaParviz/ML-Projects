@@ -11,5 +11,7 @@ Tech Stack
 - Python, Jupyter Notebook
 - pandas, scikit-learn, pickle
 - Streamlit (for UI)
-Usage Users can input match details (e.g., teams, venue, toss winner) into the Streamlit app and receive a prediction of the likely match winner.
+
+Usage
+Users can input match details (e.g., teams, venue, toss winner) into the Streamlit app and receive a prediction of the likely match winner.
 
